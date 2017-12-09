@@ -1,0 +1,25 @@
+{
+  "name": "proiet-tehnologiiweb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnaMariaPopescu/Documentatie-Tehnologii-Web.git"
+  },
+  "author": "Popescu Ana-Maria",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnaMariaPopescu/Documentatie-Tehnologii-Web/issues"
+  },
+  "homepage": "https://github.com/AnaMariaPopescu/Documentatie-Tehnologii-Web#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "sequelize": "^4.26.0"
+  }
+}
